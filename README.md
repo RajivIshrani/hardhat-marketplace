@@ -58,15 +58,15 @@ yarn hardhat deploy --network goerli
 ```
 
 ## Student Info
-- Name : Ishrani Rajiv M.
-- Email : rajivishrani@gmail.com
-- University : Atmiya University
-- GitHub handle : https://github.com/RajivIshrani
+> - Name : Ishrani Rajiv M.
+> - Email : rajivishrani@gmail.com
+> - University : Atmiya University
+> - GitHub handle : https://github.com/RajivIshrani
 
-- Name : Makwana Jay H.
-- Email : jaymakwanacodes@gmail.com
-- University : Atmiya University
-- GitHub handle : https://github.com/jmakwana01
+> - Name : Makwana Jay H.
+> - Email : jaymakwanacodes@gmail.com
+> - University : Atmiya University
+> - GitHub handle : https://github.com/jmakwana01
 
 # Thank you!
 
